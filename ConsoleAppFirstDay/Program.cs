@@ -14,7 +14,7 @@ namespace ConsoleAppFirstDay
         {
             string name = "Ulf";
 
-            Console.WriteLine("Hello! this is " + name + " first code in C#");
+            Console.WriteLine("Hello! this is " + name + " first code in C# !!!");
         }
     }
 }
